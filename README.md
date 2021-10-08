@@ -7,7 +7,7 @@
 - 🎓 I’m graduate in Management Informatics
 - 🚀 I did rocketseat bootcamp, udemy courses, everything about PERN stack(PosgreSQL, Express, React, Node and more...)
 - 💬 Ask me about on whatsapp (+244) 939 620 501
-- 📫 Conect me on linkedIn: https://www.linkedin.com/in/ernesto-maria-410911116/ 
+- 📫 Connect me on linkedIn: https://www.linkedin.com/in/ernesto-maria-410911116/ 
 - 📧 Send me mail: ernestomaria93@gmail.com
 - 
 
