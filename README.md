@@ -1,7 +1,7 @@
 ### Hi My name is Ernesto Pedro Maria || I’m from Angola 👋
 ### welcome to my profile
 
-- 🔭 I’m looking for software development Jr. job 
+- 🔭 I’m looking for software development job 
 - 🔭 I’m currently working on fullstack personal projects
 - 🌱 I’m currently learning Typescript 
 - 🎓 I’m graduate in Management Informatics
